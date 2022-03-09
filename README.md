@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Mariam<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hey there, I'm Mariam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <h3 align="center">I help companies create beautiful websites inside and out: well-designed and operational, with some clean code on the side. </h3>
 
@@ -51,8 +51,11 @@
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-black?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/> </a>
 <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.shields.io/badge/Android_Studio-669933?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/> </a>
 <a href="https://jupyter.org/" target="_blank"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/> </a>
-
+<br>
+<br>
+<br>
 ## **GitHub Stats 🎯**<br>
+
 ![Mariam's Github Stats](https://github-readme-stats.vercel.app/api?username=mariamelzaatari&show_icons=true&theme=radical&hide=stars,issues)
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mariamelzaatari&layout=compact&theme=radical&count_private=true" />
