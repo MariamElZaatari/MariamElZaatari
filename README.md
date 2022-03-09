@@ -2,7 +2,7 @@
 
 <h3 align="center">I help companies create beautiful websites inside and out: well-designed and operational, with some clean code on the side. </h3>
 
-## **Tech Skills🧰**<br>
+## **Tech Skills 🧰**<br>
 
 ### **Programming Languages**<br>
 <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> </a>
@@ -52,7 +52,7 @@
 <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.shields.io/badge/Android_Studio-669933?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/> </a>
 <a href="https://jupyter.org/" target="_blank"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/> </a>
 
-## **GitHub Stats**<br>
+## **GitHub Stats 🎯**<br>
 ![Mariam's Github Stats](https://github-readme-stats.vercel.app/api?username=mariamelzaatari&show_icons=true&theme=radical&hide=stars,issues)
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mariamelzaatari&layout=compact&theme=radical&count_private=true" />
