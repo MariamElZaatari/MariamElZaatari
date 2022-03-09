@@ -2,7 +2,7 @@
 
 <h3 align="center">I help companies create beautiful websites inside and out: well-designed and operational, with some clean code on the side. </h3>
 
-## **Tech Skills 🧰**<br>
+## **🧰 Tech Skills**<br>
 
 ### **Programming Languages**<br>
 <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> </a>
@@ -54,7 +54,7 @@
 <br>
 <br>
 <br>
-## **GitHub Stats 🎯**<br>
+## **🎯 GitHub Stats**<br>
 
 ![Mariam's Github Stats](https://github-readme-stats.vercel.app/api?username=mariamelzaatari&show_icons=true&theme=radical&hide=stars,issues)
 
