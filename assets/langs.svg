@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300" role="img" aria-labelledby="t d">
+<title id="t">Most Used Languages</title>
+<desc id="d">1. JavaScript 35.1%, 2. CSS 20.2%, 3. Dart 18.9%, 4. PHP 11.0%, 5. Java 9.1%, 6. HTML 5.7%</desc>
+<style>
+  .title { font: 600 20px 'Segoe UI', Ubuntu, sans-serif; fill: #fe428e; }
+  .tag { font: 600 13px 'Segoe UI', Ubuntu, sans-serif; fill: #fe428e; }
+  .name { font: 600 15px 'Segoe UI', Ubuntu, sans-serif; fill: #a9fef7; }
+  .pct { font: 700 14px 'Segoe UI', Ubuntu, sans-serif; fill: #a9fef7; }
+  .rank { font: 800 14px 'Segoe UI', Ubuntu, sans-serif; fill: #a9fef7aa; }
+  .medal { font: 800 13px 'Segoe UI', Ubuntu, sans-serif; fill: #141321; }
+  .row { opacity: 0; animation: in .5s ease forwards; }
+  @keyframes in { from { opacity: 0; transform: translateX(8px); } to { opacity: 1; transform: none; } }
+  @media (prefers-reduced-motion: reduce) { .row { animation: none; opacity: 1; } }
+</style>
+<rect width="800" height="300" rx="6" fill="#141321"/>
+<text x="30" y="42" class="title">Most Used Languages</text>
+<text x="770" y="42" text-anchor="end" class="tag">Leaderboard</text>
+<path d="M160 170 L160.00 70.00 A100 100 0 0 1 240.62 229.17 Z" fill="#f1e05a" stroke="#141321" stroke-width="2"/><path d="M160 170 L240.62 229.17 A100 100 0 0 1 127.57 264.60 Z" fill="#663399" stroke="#141321" stroke-width="2"/><path d="M160 170 L127.57 264.60 A100 100 0 0 1 60.15 175.48 Z" fill="#00B4AB" stroke="#141321" stroke-width="2"/><path d="M160 170 L60.15 175.48 A100 100 0 0 1 79.60 110.54 Z" fill="#4F5D95" stroke="#141321" stroke-width="2"/><path d="M160 170 L79.60 110.54 A100 100 0 0 1 124.74 76.42 Z" fill="#b07219" stroke="#141321" stroke-width="2"/><path d="M160 170 L124.74 76.42 A100 100 0 0 1 160.00 70.00 Z" fill="#e34c26" stroke="#141321" stroke-width="2"/>
+<g class="row" style="animation-delay:0ms"><circle cx="344" cy="82" r="13" fill="#f8d847"/><circle cx="344" cy="82" r="9" fill="none" stroke="#00000033" stroke-width="2"/>
+      <text x="344" y="86.5" text-anchor="middle" class="medal">1</text>
+      <text x="368" y="87" class="name">JavaScript</text>
+      <rect x="480" y="76" width="228" height="12" rx="6" fill="#2a2840"/>
+      <rect x="480" y="76" width="228.0" height="12" rx="6" fill="#f1e05a"/>
+      <text x="770" y="87" text-anchor="end" class="pct">35.1%</text></g><g class="row" style="animation-delay:120ms"><circle cx="344" cy="120" r="13" fill="#c9d1e0"/><circle cx="344" cy="120" r="9" fill="none" stroke="#00000033" stroke-width="2"/>
+      <text x="344" y="124.5" text-anchor="middle" class="medal">2</text>
+      <text x="368" y="125" class="name">CSS</text>
+      <rect x="480" y="114" width="228" height="12" rx="6" fill="#2a2840"/>
+      <rect x="480" y="114" width="131.2" height="12" rx="6" fill="#663399"/>
+      <text x="770" y="125" text-anchor="end" class="pct">20.2%</text></g><g class="row" style="animation-delay:240ms"><circle cx="344" cy="158" r="13" fill="#d08a4f"/><circle cx="344" cy="158" r="9" fill="none" stroke="#00000033" stroke-width="2"/>
+      <text x="344" y="162.5" text-anchor="middle" class="medal">3</text>
+      <text x="368" y="163" class="name">Dart</text>
+      <rect x="480" y="152" width="228" height="12" rx="6" fill="#2a2840"/>
+      <rect x="480" y="152" width="122.7" height="12" rx="6" fill="#00B4AB"/>
+      <text x="770" y="163" text-anchor="end" class="pct">18.9%</text></g><g class="row" style="animation-delay:360ms"><text x="344" y="201" text-anchor="middle" class="rank">#4</text>
+      <text x="368" y="201" class="name">PHP</text>
+      <rect x="480" y="190" width="228" height="12" rx="6" fill="#2a2840"/>
+      <rect x="480" y="190" width="71.5" height="12" rx="6" fill="#4F5D95"/>
+      <text x="770" y="201" text-anchor="end" class="pct">11.0%</text></g><g class="row" style="animation-delay:480ms"><text x="344" y="239" text-anchor="middle" class="rank">#5</text>
+      <text x="368" y="239" class="name">Java</text>
+      <rect x="480" y="228" width="228" height="12" rx="6" fill="#2a2840"/>
+      <rect x="480" y="228" width="59.3" height="12" rx="6" fill="#b07219"/>
+      <text x="770" y="239" text-anchor="end" class="pct">9.1%</text></g><g class="row" style="animation-delay:600ms"><text x="344" y="277" text-anchor="middle" class="rank">#6</text>
+      <text x="368" y="277" class="name">HTML</text>
+      <rect x="480" y="266" width="228" height="12" rx="6" fill="#2a2840"/>
+      <rect x="480" y="266" width="37.3" height="12" rx="6" fill="#e34c26"/>
+      <text x="770" y="277" text-anchor="end" class="pct">5.7%</text></g>
+</svg>
